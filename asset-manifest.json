@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SafeBus/static/css/main.a7969f37.css",
+    "main.js": "/SafeBus/static/js/main.f28c3ace.js",
+    "index.html": "/SafeBus/index.html",
+    "main.a7969f37.css.map": "/SafeBus/static/css/main.a7969f37.css.map",
+    "main.f28c3ace.js.map": "/SafeBus/static/js/main.f28c3ace.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7969f37.css",
+    "static/js/main.f28c3ace.js"
+  ]
+}
